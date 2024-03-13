@@ -29,9 +29,9 @@ docker build .github/runners -t actions-runner:latest
 ```
 
 Run the docker image:
-'''bash
+```bash
 docker run actions-runner
-'''
+```
 
 ## License
 
