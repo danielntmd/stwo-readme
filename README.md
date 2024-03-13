@@ -24,7 +24,7 @@ git clone https://github.com/starkware-libs/stwo.git
 Build the docker image:
 
 ```bash
-cd stone-prover
+cd stwo
 docker build .github/runners -t actions-runner:latest
 ```
 
